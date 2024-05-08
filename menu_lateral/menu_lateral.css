@@ -1,0 +1,35 @@
+.menu_lateral {
+    grid-column: 1/2;
+    grid-row: 2/3;
+
+    width: 20rem;
+    height: 30rem;
+    margin: 0px 4rem;
+    border: 1px solid black;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+
+.cuadros {
+    width: 20rem;
+    height: 5rem;
+    border: 1px solid black;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.menus {
+    width: 8rem;
+    height: 2rem;
+    border-radius: 10px;
+    font-size: 1rem;
+    background-color: rgb(192, 113, 113);
+    margin: 1rem auto;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

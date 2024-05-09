@@ -1,6 +1,7 @@
 body {
     margin: auto;
     max-width: 136rem;
+    height: 60rem;
     display: grid;
     grid-template-columns: 60rem 1fr;
     grid-template-rows: 8rem 1fr 15rem;

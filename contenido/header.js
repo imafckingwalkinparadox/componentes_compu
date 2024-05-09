@@ -6,8 +6,9 @@ li_jcalderon.innerHTML=`
 </div>
 
 <div class="m">
-    <p>servicios</p>
-    <p>contactos</p>
-    <p>ajustes</p>
+    <a href="">servicios</a>
+    <a href="">contactos</a>
+    <a href="">ajustes</a>
+    <a href="">menu principal</a>
 </div>
 `;

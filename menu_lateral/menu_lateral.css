@@ -1,9 +1,9 @@
 .menu_lateral {
     grid-column: 1/2;
-    grid-row: 2/3;
+    grid-row: 2/4;
 
     width: 20rem;
-    height: 30rem;
+    height: 35rem;
     margin: 0px 4rem;
     border: 1px solid black;
     display: grid;

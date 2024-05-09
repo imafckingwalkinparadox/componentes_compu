@@ -1,0 +1,18 @@
+.header{
+    background-color: aqua;
+    grid-column: 1/2;
+    grid-row: 1/2;
+    display: flex;
+}
+
+img {
+    width: 160px;
+    height: 80px;
+}
+
+p {
+    margin-left: 300px;
+    gap: 30px;
+    font-size: 15px;
+    display: flex;
+}

@@ -1,0 +1,22 @@
+.section1{
+    grid-column: 2/3;
+    grid-row: 2/3;
+}
+.contenedor{
+    width: 100%;
+    height: 600px;
+    
+}
+.contenedor h1{
+    padding-top: 70px;
+    padding-left: 50px;
+    font-size: 30px;
+}
+.contenedor p {
+
+    
+}
+.contenedor img{
+    margin-top: 80px;
+    margin-left: 300px;
+}

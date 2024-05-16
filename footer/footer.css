@@ -3,11 +3,17 @@
     grid-row: 3/4;
     background-color: dimgrey;
     border: 1px solid black;
+    border-radius: 10px;
 }
 
-img {
-    width: 150px;
-    height: 70px;
+div {
+    width: 75rem;
+    height: 15rem;
+}
+
+.img img{
+    width: 200px;
+    height: 140px;
 
 }
 

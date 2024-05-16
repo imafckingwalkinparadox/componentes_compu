@@ -2,17 +2,17 @@ let div_menu = document.querySelector(".menu_lateral")
 div_menu.innerHTML = `
 <div class="barra">
     <ul>
-        <li><a href="">cpu</a></li>
+        <li><a href="">CPU</a></li>
         <br>
-        <li><a href="">gpu</a></li>
+        <li><a href="">GPU</a></li>
         <br>
-        <li><a href="">ram</a></li>
+        <li><a href="">RAM</a></li>
         <br>
-        <li><a href="">unidad ssd</a></li>
+        <li><a href="">Unidad SSD</a></li>
         <br>
-        <li><a href="">tarjeta madre</a></li>
+        <li><a href="">Tarjeta M</a></li>
         <br>
-        <li><a href="">disco duro</a></li>
+        <li><a href="">Disco Duro</a></li>
     </ul>
 </div>
 `;

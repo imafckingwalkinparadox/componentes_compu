@@ -1,6 +1,7 @@
 .section1{
     grid-column: 2/3;
     grid-row: 2/3;
+    background-color: rgb(195, 186, 186);
 }
 .contenedor{
     width: 100%;

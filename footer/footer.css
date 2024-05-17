@@ -6,14 +6,40 @@
     border-radius: 10px;
 }
 
-div {
+.r4 {
     width: 75rem;
     height: 15rem;
+    display: flex;
+    justify-content: space-between;
 }
 
-.img img{
-    width: 200px;
-    height: 140px;
+.imgx {
+    width: 210px;
+    height: 150px;
 
 }
 
+.mt3 {
+    width: 80px;
+    height: 70px;
+    margin-top: 30px;
+    margin-left: 70px;
+    display: flex;
+}
+
+.a1 {
+    margin-top: 50px;
+    margin-left: 70px;
+}
+
+.r3 {
+    display: flex;
+}
+
+.m1 {
+    font-size: 17px;
+}
+
+.m3 {
+    font-size: 17px;
+}
